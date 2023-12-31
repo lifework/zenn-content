@@ -1,7 +1,7 @@
 ---
 title: "株式会社スタジアムCTOとしての2023年の振り返り"
 emoji: "📝"
-type: "tech" # tech: 技術記事 / idea: アイデア
+type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["スタートアップ", "CTO", "振り返り"]
 published: true
 publication_name: "stadium"
